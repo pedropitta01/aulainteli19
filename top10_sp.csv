@@ -1,0 +1,5 @@
+rank,name,neighborhood,address,michelin_stars,michelin_bib,fiftybest_rank,veja_award,rating,votes,michelin_url,fiftybest_url,site_url
+1,Tuju,Jardim Paulistano,"R. Frei Galvão, 135 - Jardim Paulistano, São Paulo - SP, 01454-060",2,False,8,,,,https://guide.michelin.com/br/pt_BR/sao-paulo-region/sao-paulo/restaurants/2-stars-michelin/tuju,https://www.theworlds50best.com/latinamerica/en/the-list/tuju.html,https://tuju.com.br/
+2,Evvai,Pinheiros,"R. Joaquim Antunes, 108 - Pinheiros, São Paulo, 05415-000",1,False,20,,,,,https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Evvai.html,https://www.evvai.com.br/
+3,A Casa do Porco,Centro,"Rua Araújo, 124 - Centro, São Paulo",1,False,25,,,,https://guide.michelin.com/br/pt_BR/sao-paulo-region/sao-paulo/restaurants/1-star-michelin/a-casa-do-porco,https://www.theworlds50best.com/latinamerica/en/the-list/a-casa-do-porco.html,https://acasadoporco.com.br/
+4,Nelita,Pinheiros,"R. Ferreira de Araújo, 330 - Pinheiros, São Paulo, 05428-000",0,False,12,,,,,https://www.theworlds50best.com/latinamerica/en/the-list/nelita.html,https://nelitarestaurante.com.br/
